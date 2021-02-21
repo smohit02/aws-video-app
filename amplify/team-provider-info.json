@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-videowebapp-dev-183144-authRole",
+      "UnauthRoleArn": "arn:aws:iam::806362522727:role/amplify-videowebapp-dev-183144-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::806362522727:role/amplify-videowebapp-dev-183144-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-videowebapp-dev-183144-deployment",
+      "UnauthRoleName": "amplify-videowebapp-dev-183144-unauthRole",
+      "StackName": "amplify-videowebapp-dev-183144",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:806362522727:stack/amplify-videowebapp-dev-183144/75fe2280-71e9-11eb-8f23-0ef735ff19db",
+      "AmplifyAppId": "d5vpyrhuivque"
+    },
+    "categories": {
+      "auth": {
+        "videowebappbd232ff7": {}
+      }
+    }
+  }
+}
